@@ -1,0 +1,353 @@
+.first img {
+    margin: 10px;
+}
+
+.first {
+    background-color: #316dc3;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.first1 {
+    display: inline;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+
+.first2 {
+    display: inline;
+    margin-top: 10px;
+    color: #e5ebe9;
+    margin-bottom: 10px;
+}
+
+.first3 {
+    display: inline;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 13px;
+}
+
+#tag2 {
+    color: black;
+}
+
+.news {
+    background-color: #2451d2;
+    text-align: center;
+    margin: 1% auto;
+    color: #e5ebe9;
+    width: 80%;
+    height: 30px;
+    font-size: 90%;
+    padding: 2px;
+    vertical-align: auto;
+}
+
+#newsh {
+    color: #19b364;
+}
+
+#home {
+    background-color: #316dc3;
+    color: #e5ebe9;
+}
+
+.body {
+    margin-top: 4%;
+    margin-bottom: 7%;
+}
+
+#h11 {
+    color: #326ec3;
+}
+
+#h12 {
+    color: #477c07;
+}
+
+#h11,
+#h12 {
+    font-size: 90%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.int,
+.imgint {
+    text-align: center;
+}
+
+.imgint {
+    margin-bottom: 1%;
+}
+
+.para {
+    width: 65%;
+    margin: auto;
+    color: #8b8c8d;
+}
+
+#tag {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.tag1,
+.tg2 {
+    display: inline-block;
+}
+
+#card {
+    background-color: #2755e9;
+    display: flex;
+    margin-bottom: 5%;
+    width: 100%;
+    height: 400px;
+}
+
+#cit {
+    position: relative;
+    left: 90%;
+}
+
+.card1,
+.card2,
+.card3,
+.card4 {
+    width: 4%;
+    height: 10%;
+    margin: 7% auto;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 20%;
+    position: relative;
+    right: 20px;
+}
+
+.card-title {
+    color: #fdfefe;
+    text-align: center;
+    font-size: 50px;
+
+}
+
+.card-text {
+    color: #fdfefe;
+    text-align: center;
+    font-size: 20px;
+}
+
+.card-body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    float: left;
+    font-size: 10%;
+    position: relative;
+    right: 50px !important;
+    margin-top: 1px !important;
+}
+
+.c1 {
+    color: white;
+}
+
+.c2 {
+    color: #0ad13f;
+}
+
+.abc {
+    text-align: center;
+}
+
+.abca1 {
+    color: #3a73c6;
+}
+
+.abca2 {
+    color: #56871c;
+}
+
+.abca {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.abcb {
+    margin-bottom: 4%;
+}
+
+.abc,
+#secondcard {
+    background-color: #f7f8fa;
+}
+
+#cd {
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+#cit2 {
+    width: 80px;
+    height: 80px;
+    position: relative;
+    bottom: 50px;
+    right: 30px;
+}
+
+#cd {
+    display: flex;
+}
+
+#ct1,
+#ct2,
+#ct3,
+#ct4,
+#ct5,
+#ct6 {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    top: 20px;
+    right: 90px;
+    color: #3670c4;
+}
+
+#secondcard {
+    box-shadow: gray 2px 3px 5px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#c11,
+#c12,
+#c13,
+#c21,
+#c22,
+#c23 {
+    justify-content: space-evenly;
+    position: relative;
+    flex-wrap: wrap;
+    padding: 10%;
+    margin: 0% 5% 0% 5%;
+    flex: 10%;
+    box-shadow: gray 2px 3px 3px;
+    width: 20% !important;
+    height: 50px !important;
+}
+
+#ct1,
+#ct4 {
+    position: relative;
+    right: 110px !important;
+}
+
+.maup {
+    background-color: lightblue;
+    position: relative;
+}
+
+.ue {
+    background-color: lightblue;
+    position: relative;
+}
+
+#cont {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+#icq {
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+.hsit {
+    color: #3671c4;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 120%;
+}
+
+.hsit b {
+    background-color: #cccac6;
+}
+
+#I {
+    margin-top: 5%;
+    margin-bottom: 15%;
+}
+
+#i1,
+#i2,
+#i3,
+#i4,
+#i5,
+display: flex;
+}
+
+#end {
+    background-color: #25272e;
+}
+
+.bottom {
+    padding: 70px 0px 40px 0px;
+}
+
+#end1 {
+    color: #8a8b8d;
+    position: relative;
+    left: 9%;
+    margin-top: 2%;
+    margin-bottom: 4%;
+}
+
+.end11 {
+    position: relative;
+    right: 22%;
+}
+
+#end2 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    left: 6%;
+}
+
+#end3 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    right: 7%;
+}
+
+.#end31 {
+    position: relative;
+    right: 10%;
+}
+
+.end311 {
+    position: relative;
+    right: 20%;
+}
+
+.bot {
+    background-color: #316dd9;
+}
+
+.bot1 {
+    font-size: 80%;
+    color: white;
+    padding: 1% 0% 1% 10%;
+}
+
+#backtotop {
+    position: fixed;
+    bottom: 1px;
+    right: 1px;
+    width: 4%;
+    height: 7%;
+    background-color: #e5e5e5;
+    padding-top: 1%;
+    padding-left: 1.5%;
+}
